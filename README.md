@@ -35,7 +35,9 @@
 4. Design the Dashboard
    - Use filters and dropdowns for interactivity (e.g., by Date, Category, Fulfilment type).
    - Add KPIs at the top (Total Sales, Orders, Avg Order Value).
+   - Add logos for the KPIs.
    - Apply consistent color schemes and intuitive layouts.
+   - Final touches and formattings.
 
 5. Test and Publish
    - Validate data accuracy
